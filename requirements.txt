@@ -1,0 +1,11 @@
+scikit-learn
+pandas 
+numpy 
+spacy
+wordcloud
+seaborn 
+matplotlib
+jupyter
+en-core-web-sm==3.8.0
+streamlit
+joblib
